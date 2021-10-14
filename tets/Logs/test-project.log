@@ -1,0 +1,33 @@
+2021-10-14 16:47:43 INFO  BaseTest:33 - Giriş İşlemi Başarılı !
+2021-10-14 17:13:46 INFO  BaseTest:25 - email girisi yapıldı
+2021-10-14 17:13:51 INFO  BaseTest:28 - sifre girildi
+2021-10-14 17:14:16 INFO  BaseTest:33 - Giriş İşlemi Başarılı !
+2021-10-14 17:14:21 INFO  BaseTest:15 - Ürün ismi girildi.
+2021-10-14 17:14:38 INFO  BaseTest:17 - Ürün arandı
+2021-10-14 17:14:51 INFO  BaseTest:19 - Daha fazla ürün göstere tıklandı.
+2021-10-14 17:15:05 INFO  BaseTest:25 - Random 1 ürün seçildi ve tıklanıldı.
+2021-10-14 17:15:21 INFO  BaseTest:32 - Beden seçimi yapıldı
+2021-10-14 17:15:34 INFO  BaseTest:34 - Sepete eklendi
+2021-10-14 17:15:34 INFO  BaseTest:21 - Sepet açıldı
+2021-10-14 17:16:04 INFO  BaseTest:25 - 55,99 TL
+2021-10-14 17:16:09 INFO  BaseTest:28 - Fiyat eşleştirildi
+2021-10-14 17:16:24 INFO  BaseTest:31 - Ürün adeti attırıldı.
+2021-10-14 17:16:24 INFO  BaseTest:35 - Adet eşleştirildi
+2021-10-14 17:16:50 INFO  BaseTest:39 - Ürün sepetten silindi
+2021-10-14 17:16:50 INFO  BaseTest:43 - Sepette ürün bulunmamaktadır
+2021-10-14 17:38:02 INFO  BaseTest:25 - email girisi yapıldı
+2021-10-14 17:38:07 INFO  BaseTest:28 - sifre girildi
+2021-10-14 17:38:37 INFO  BaseTest:33 - Giriş İşlemi Başarılı !
+2021-10-14 17:38:42 INFO  BaseTest:15 - Ürün ismi girildi.
+2021-10-14 17:38:45 INFO  BaseTest:17 - Ürün arandı
+2021-10-14 17:39:07 INFO  BaseTest:19 - Daha fazla ürün göstere tıklandı.
+2021-10-14 17:39:22 INFO  BaseTest:25 - Random 1 ürün seçildi ve tıklanıldı.
+2021-10-14 17:39:37 INFO  BaseTest:32 - Beden seçimi yapıldı
+2021-10-14 17:39:49 INFO  BaseTest:34 - Sepete eklendi
+2021-10-14 17:39:49 INFO  BaseTest:21 - Sepet açıldı
+2021-10-14 17:40:17 INFO  BaseTest:25 - 55,99 TL
+2021-10-14 17:40:22 INFO  BaseTest:28 - Fiyat eşleştirildi
+2021-10-14 17:40:37 INFO  BaseTest:31 - Ürün adeti attırıldı.
+2021-10-14 17:40:37 INFO  BaseTest:35 - Adet eşleştirildi
+2021-10-14 17:41:08 INFO  BaseTest:39 - Ürün sepetten silindi
+2021-10-14 17:41:08 INFO  BaseTest:43 - Sepette ürün bulunmamaktadır
